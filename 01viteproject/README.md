@@ -1,0 +1,1 @@
+This is a basic project that i have created to learn the react with vite tech. 
